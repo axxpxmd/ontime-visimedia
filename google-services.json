@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "812391848039",
+      "project_id": "presensi-21321",
+      "storage_bucket": "presensi-21321.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:812391848039:android:ca637d3d1d8c04cbaa5cc2",
+          "android_client_info": {
+            "package_name": "com.diskominfotangsel.presensi"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "812391848039-4v8h9o21kh64ht5sjl1oce7kdhk15hst.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBRJe-sNepiP6D2WIHap2NYZkLSCvWpaxs"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "812391848039-4v8h9o21kh64ht5sjl1oce7kdhk15hst.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
